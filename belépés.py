@@ -7,5 +7,5 @@ while not beenged:
         print('Beléphetsz!')
         beenged=True
     else:
-        print('Belépés megtagadva')
+        print('Belépés megtagadva!')
         
